@@ -5,4 +5,26 @@ works:
   book: "Revise and resubmit, Journal of Political Economy"
   abstract: >
       This paper studies the supply of and demand for moral values in recent U.S. presidential elections. Using a combination of large-scale survey data and text analyses, I find support for the hypothesis that both voters and politicians exhibit heterogeneity in their emphasis on “universal” relative to “communal” moral values, and that politicians’ vote shares partly reflect the extent to which their moral appeal matches the values of the electorate. Over the last decade, Americans’ values have become increasingly communal – especially in rural areas – which generated increased moral polarization and is associated with changes in voting patterns across space.
-      
+            
+- title: "What You See Is All There Is"
+  pdflink: "/pdf/What_you_see.pdf"
+  book: "Revise and resubmit, Quarterly Journal of Economics"
+  links:
+    - url: "/pdf/Neglect.pdf"
+      text: "Version 09/2017"
+  abstract: >
+    News reports and communication are inherently constrained by space, time, and attention. As a result, news sources often condition the decision of whether or not to share a piece of information on the similarity between the signal and the prior belief of the audience, so that the audience needs to draw inferences from a selected sample. This paper experimentally studies how people form beliefs in these contexts, in particular the mechanisms behind errors in statistical reasoning. I document that a substantial fraction of experimental participants updates beliefs by exclusively taking into account information that is right in front of them, hence neglecting selection effects. A series of treatments aimed at identifying mechanisms document that neglect is largely driven by subjects maintaining a misspecified mental model of the known information environment, according to which selection does not even come to mind. This mental model of “what you see is all there is” is not constant but predictably responds to perhaps seemingly innocuous variations in the environment, including (i) the computational complexity of the decision problem, and (ii) whether selection problems arise due to a deliberate choice between information sources or as a mechanical by-product of another decision. These results point to the context-dependence of mental models and the resulting errors in belief updating.
+    
+- title: "Patience and Comparative Development"
+  pdflink: "/pdf/Patience.pdf"
+  book: "Revise and resubmit, Review of Economic Studies"
+  coauthors: "Thomas Dohmen, Armin Falk, David Huffman, and Uwe Sunde"
+  abstract: >
+    This paper studies the role of heterogeneity in patience for comparative development. The empirical analysis is based on a simple OLG model in which patience drives the accumulation of physical capital, human capital, productivity improvements, and hence income. Based on a globally representative dataset on patience in 76 countries, we study the implications of the model through a combination of reduced-form estimations and simulations. In the data, patience is strongly correlated with income levels, income growth, and the accumulation of physical capital, human capital, and productivity. These relationships hold across countries, sub- national regions, and individuals. In the reduced-form analyses, the quantitative magnitude of the relationship between patience and income strongly increases in the level of aggregation. A simple parameterized version of the model generates comparable aggregation effects as a result of production complementarities and equilibrium effects, and illustrates that variation in preference endowments can account for a considerable part of the observed variation in per capita income.
+
+- title: "Associative Memory and Belief Formation"
+  pdflink: "/pdf/Memory.pdf"
+  coauthors: "Frederik Schwerter and Florian Zimmermann"
+  abstract: >
+    This paper experimentally studies the role of associative memory for expectation formation. Real-world information signals are often embedded in memorable contexts. Thus, today’s news may cue the selective retrieval of similar past news and hence contribute to the widely documented pattern of expectation overreaction. Based on a stylized version of models of associative memory in the literature, we develop a simple and tightly controlled experimental setup in which participants observe sequences of news about the stock market value of hypothetical companies. Here, identical types of news are associated with identical stories and images. In this setup, participants’ expectations strongly overreact to recent news, and we successfully verify the model’s relatively nuanced predictions about how the magnitude of overreaction should depend on the history of news. We use our experimental data to estimate the model and further provide direct causal evidence that expectation overreaction indeed occurs because of imperfect and associative memory. These patterns hold both within an experimental session and over a time lag of three days. We also document that the effects of associative memory depend on the structure of the environment: once today’s news are associated with the stories and images of previous opposite news, expectations systematically underreact.
+ 
