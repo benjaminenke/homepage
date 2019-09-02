@@ -8,9 +8,9 @@ Sidebar is controlled by the file `config.toml`.
 - `shortbio` is the text displayed right under the title.
 - `logo` is the filename of the picture. The file is placed in `content/`. For example, if `logo = "gr.jpg"` then the picture should be placed at `content/gr.jpg` (as it is now).
 
-### Bio, Contact, From Another Life, and Personal
+### Bio and Contact
 
-Those four sections are controlled by `content/sections/{aboutme.md, contact.md, from-another-life.md, personal.md}`. The files are formatted using "Markdown" (`.md`), a lightweight markup language. A quick guide is available [here](https://guides.github.com/features/mastering-markdown/). To modify those sections, simply edit the corresponding Markdown file.
+Those two sections are controlled by `content/sections/{aboutme.md, contact.md}`. The files are formatted using "Markdown" (`.md`), a lightweight markup language. A quick guide is available [here](https://guides.github.com/features/mastering-markdown/). To modify those sections, simply edit the corresponding Markdown file.
 
 ### Publications, Working Papers, and Work in Progress
 
