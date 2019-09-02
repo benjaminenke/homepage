@@ -6,7 +6,7 @@ works:
     - url: "https://voxeu.org/article/kinship-cooperation-and-culture"
       text: "VOX column"
     - url: "https://www.cesifo.org/en/research-network"
-      text: "Winner of Distinguished CESifo Affiliate Award"
+      text: "Distinguished CESifo Affiliate Award"
     - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JX1OIU"
       text: "data and code"
   abstract: >
@@ -41,7 +41,7 @@ works:
 - title: "The Precision of Subjective Data and the Explanatory Power of Economic Models"
   pdflink: "/pdf/measures_subj_beliefs.pdf"
   book: "Journal of Econometrics, 2017, vol. 200(2), pp. 378-389."
-  coauthors: "Tilman Drerup and Hans-Martin von Gaudecke"
+  coauthors: "Tilman Drerup and Hans-Martin von Gaudecker"
   links:
     - url: "/pdf/meas_error_subj_beliefs_online_appendix.pdf"
       text: "online appendix"
