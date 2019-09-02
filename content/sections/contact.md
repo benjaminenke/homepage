@@ -1,14 +1,9 @@
-__Email__: [grao@fas.harvard.edu](grao@fas.harvard.edu)  
-__Tel__: +1 (857) 998-4505  
-__Address__:  
-Department of Economics  
-Littauer Center M-30, Harvard University  
-Cambridge, MA 02138  
-U.S.A.  
+__Email__: [enke@fas.harvard.edu](enke@fas.harvard.edu)  
+[__[Google Scholar](https://scholar.google.de/citations?user=8-x_XN4AAAAJ&hl=en)__]
+[__[Twitter](https://twitter.com/BenjaminEnke)__]
 
-__Teaching__ (Spring 2020)  
-Econ 2338: Behavioral Development Economics   
-Econ 980: Behavioral Economics of Poverty and Development (junior seminar)
+__For Harvard students__ (Spring 2020)  
+[Teaching website](https://scholar.harvard.edu/benke)   
+[Information for potential advisees](/info_for_potential)
 
-__[Information](/info_for_potential)__ for (potential) advisees
-
+Sign up for [office hours](https://app.acuityscheduling.com/schedule.php?owner=12646405)
