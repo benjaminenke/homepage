@@ -29,12 +29,12 @@ works:
     This paper experimentally studies the role of associative memory for expectation formation. Real-world information signals are often embedded in memorable contexts. Thus, today’s news may cue the selective retrieval of similar past news and hence contribute to the widely documented pattern of expectation overreaction. Based on a stylized version of models of associative memory in the literature, we develop a simple and tightly controlled experimental setup in which participants observe sequences of news about the stock market value of hypothetical companies. Here, identical types of news are associated with identical stories and images. In this setup, participants’ expectations strongly overreact to recent news, and we successfully verify the model’s relatively nuanced predictions about how the magnitude of overreaction should depend on the history of news. We use our experimental data to estimate the model and further provide direct causal evidence that expectation overreaction indeed occurs because of imperfect and associative memory. These patterns hold both within an experimental session and over a time lag of three days. We also document that the effects of associative memory depend on the structure of the environment: once today’s news are associated with the stories and images of previous opposite news, expectations systematically underreact.
     
 - title: "Internal Uncertainty in Belief Formation and Choice under Risk"
-   coauthors: "Thomas Graeber"
-   note: "coming soon"
+  coauthors: "Thomas Graeber"
+  note: "coming soon"
 
 - title: "Moral Universalism and the Structure of Ideology"
-   coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
-   note: "coming soon"
+  coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
+  note: "coming soon"
 
 - title: "Moral Universalism: Measurement and Heterogeneity"
   pdflink: "/pdf/Universalism_measurement.pdf"
