@@ -1,57 +1,49 @@
 works:
 - title: "Kinship, Cooperation, and the Evolution of Moral Systems"
   pdflink: "/pdf/Moral_systems.pdf"
-  book: "American Economic Review Papers and Proceedings, May 2013"
-  coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
+  book: "Quarterly Journal of Economics, 2019, vol. 134(2), pp. 953-1019."
   links:
-    - url: "/pdf/GenderGenerosityAERP&P2013OnlineApp.pdf"
-      text: "Online Appendix"
+    - url: "https://voxeu.org/article/kinship-cooperation-and-culture"
+      text: "VOX column"
+    - url: "https://www.cesifo.org/en/research-network"
+      text: "Winner of Distinguished CESifo Affiliate Award"
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JX1OIU"
+      text: "data and code"
   abstract: >
-    Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
-
-- title: "Voting to Tell Others"
-  pdflink: "/pdf/MS18548manuscript.pdf"
-  book: "Review of Economic Studies, January 2017"
-  coauthors: "Stefano DellaVigna, John List and Ulrike Malmendier"
+        Across the social sciences, a key question is how societies manage to enforce cooperative behavior in social dilemmas such as public goods provision or bilateral trade. According to an influential body of theories in psychology, anthropology, and evolutionary biology, the answer is that humans have evolved moral systems: packages of functional psychological and biological mechanisms that regulate economic behavior, including a belief in moralizing gods; moral values; negative reciprocity; and emotions of shame, guilt, and disgust. Based on a stylized model, this article empirically studies the structure and evolution of these moral traits as a function of historical heterogeneity in extended kinship relationships. The evidence shows that societies with a historically tightly knit kinship structure regulate behavior through communal moral values, revenge taking, emotions of external shame, and notions of purity and disgust. In loose kinship societies, on the other hand, cooperation appears to be enforced through universal moral values, internalized guilt, altruistic punishment, and an apparent rise and fall of moralizing religions. These patterns point to the presence of internally consistent but culturally variable functional moral systems. Consistent with the model, the relationship between kinship ties, economic development, and the structure of the mediating moral systems amplified over time.
+    
+- title: "Correlation Neglect in Belief Formation"
+  pdflink: "/pdf/Correlation_neglect.pdf"
+  book: "Review of Economic Studies, 2019, vol. 86(1), pp. 313-332."
+  coauthors: "Florian Zimmermann"
   links:
-    - url: "/pdf/VotingOnlineAppendix.pdf"
-      text: "Online Appendix"
-    - url: "/datacode/datafortheweb.tar.gz"
-      text: "Data and Code"
+    - url: "/pdf/Correlation_neglect_appendix.pdf"
+      text: "online appendix"
+    - url: "/pdf/Instructions_CN.pdf"
+      text: "experimental instructions"
+    - url: "https://academic.oup.com/restud/article/86/1/313/4772809#supplementary-data"
+      text: "data and code"
   abstract: >
-    Why do people vote? We design a field experiment to estimate a model of voting `because others will ask'. The expectation of being asked motivates turnout if individuals derive pride from telling others that they voted, or feel shame from admitting that they did not vote, provided that lying is costly. In a door-to-door survey about election turnout, we experimentally vary (i) the informational content and use of a flyer pre-announcing the survey, (ii) the duration and payment for the survey, and (iii) the incentives to lie about past voting. The experimental results indicate significant social image concerns. For the 2010 Congressional election, we estimate a value of voting ‘to tell others’ of about $15, contributing 2 percentage points to turnout. Lastly, we evaluate a get-out-the-vote intervention in which we tell potential voters that we will ask if they voted.
-
-- title: "Status Goods: Experimental Evidence from Platinum Credit Cards"
-  pdflink: "/pdf/Status_goods_resubmitted_2017_09_20.pdf"
-  book: "Quarterly Journal of Economics, August 2018"
-  coauthors: "Leonardo Bursztyn, Bruno Ferman, Stefano Fiorin and Martin Kanz"
+    Many information structures generate correlated rather than mutually independent signals, the news media being a prime example. This article provides experimental evidence that many people neglect the resulting double-counting problem in the updating process. In consequence, beliefs are too sensitive to the ubiquitous “telling and re-telling of stories” and exhibit excessive swings. We identify substantial and systematic heterogeneity in the presence of the bias and investigate the underlying mechanisms. The evidence points to the paramount importance of complexity in combination with people’s problems in identifying and thinking through the correlation. Even though most participants in principle have the computational skills that are necessary to develop rational beliefs, many approach the problem in a wrong way when the environment is moderately complex. Thus, experimentally nudging people’s focus towards the correlation and the underlying independent signals has large effects on beliefs.
+    
+- title: "Global Evidence on Economic Preferences"
+  pdflink: "/pdf/Global_preferences.pdf"
+  book: "Quarterly Journal of Economics, 2018, vol. 133(4), pp. 1645-1692 (Lead Article)."
+  coauthors: "Armin Falk, Anke Becker, Thomas Dohmen, David Huffman, and Uwe Sunde"
   links:
-    - url: "/pdf/online appendix - status goods - 2017-12-06.pdf"
-      text: "Online Appendix"
-    - url: "/datacode/Status Goods - Data and Code.zip"
-      text: "Data and Code"
-    - url: "https://www.socialscienceregistry.org/trials/828"
-      text: "AEA Pre-Registration"
+    - url: "/pdf/Global_preferences_appendix.pdf"
+      text: "online appendix"
+    - url: "https://www.briq-institute.org/global-preferences/home"
+      text: "Global Preferences Survey website and data"
   abstract: >
-    This paper provides novel field-experimental evidence on status goods. We work with an Indonesian bank that markets platinum credit cards to high-income customers. In a first experiment, we show that demand for the platinum card greatly exceeds demand for a nondescript control product with identical benefits, suggesting demand for the pure status aspect of the card. Transaction data reveal that platinum cards are more likely to be used in social contexts, implying social image motivations. Combining price variation with information on the use of the card sheds light on the magnitude of the demand for social status. In a second experiment, we provide evidence of positional externalities from the consumption of these status goods.  The final experiment shows that increasing self-esteem causally reduces demand for status goods. We infer that part of the demand for status is psychological in nature, and that social image is a substitute for self image.
+    This article studies the global variation in economic preferences. For this purpose, we present the Global Preference Survey (GPS), an experimentally validated survey data set of time preference, risk preference, positive and negative reciprocity, altruism, and trust from 80,000 people in 76 countries. The data reveal substantial heterogeneity in preferences across countries, but even larger within-country heterogeneity. Across individuals, preferences vary with age, gender, and cognitive ability, yet these relationships appear partly country specific. At the country level, the data reveal correlations between preferences and biogeoraphic and cultural variables, such as agricultural suitability, language structure, and religion. Variation in preferences is also correlated with economic outcomes and behaviors. Within countries and subnational regions, preferences are linked to individual savings decisions, labor market choices, and prosocial behaviors. Across countries, preferences vary with aggregate outcomes ranging from per capita income, to entrepreneurial activities, to the frequency of armed conflicts.
 
-- title: "Familiarity Does Not Breed Contempt: Diversity, Discrimination and Generosity in Delhi Schools"
-  pdflink: "/pdf/Rao_JMP_latest.pdf"
-  book: "American Economic Review, March 2019"
+- title: "The Precision of Subjective Data and the Explanatory Power of Economic Models"
+  pdflink: "/pdf/measures_subj_beliefs.pdf"
+  book: "Journal of Econometrics, 2017, vol. 200(2), pp. 378-389."
+  coauthors: "Tilman Drerup and Hans-Martin von Gaudecke"
   links:
-    - url: "/pdf/OnlineAppendixV1.1.pdf"
-      text: "Online Appendix"
+    - url: "/pdf/meas_error_subj_beliefs_online_appendix.pdf"
+      text: "online appendix"
   abstract: >
-    I exploit a natural experiment in Indian schools to study how being integrated with poor students affects the social behaviors and academic outcomes of rich students. Using administrative data, lab and field experiments to measure outcomes, I find that having poor classmates makes rich students (i) more prosocial, generous and egalitarian; and (ii) less likely to discriminate against poor students, and more willing to socialize with them. These effects are driven by personal interactions between rich and poor students. In contrast, I find mixed but overall modest impacts on rich students' academic achievement.
-
-- title: "Behavioral Development Economics"
-  coauthors: "Michael Kremer and Frank Schilbach"
-  pdflink: "/pdf/Kremer Rao Schilbach - Behavioral Development Economics.pdf"
-  book: "Handbook of Behavioral Economics, Volume 2 (2019)"
-  links:
-    - url: "/pdf/Behavioral Devo Handbook slides.pdf"
-      text: "Slides (pdf)"
-    - url: "/datacode/Behavioral devo handbook TeX files.zip"
-      text: "Slides (tex and bib files)"
-    - url: "/pdf/Kremer et al - Behavioral Development Economics - 2019-03-07.pptx"
-      text: "Slides (ppt)"
+    Subjective expectations are important primitives in many economic models, yet their direct measurement often yields imprecise and inconsistent data. This has previously been treated as a pure measurement error problem. In contrast, this paper argues that the individual-level precision of such data may reflect the structure of the underlying decision process. We estimate a semiparametric double index model on data specifically collected for this purpose and show that stock market participation decisions exhibit little variation in economic model primitives when individuals provide error-ridden belief statements. In contrast, beliefs and risk preferences predict strong variation in stock market participation for individuals who report precise expectations measures.
