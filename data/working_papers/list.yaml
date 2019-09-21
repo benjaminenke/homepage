@@ -2,13 +2,15 @@ works:
 
 - title: "Moral Values and Voting"
   pdflink: "/pdf/Values_voting.pdf"
-  book: "Revise and resubmit, Journal of Political Economy"
+  book: "Journal of Political Economy"
+  bookprefix: "Revise and resubmit, "
   abstract: >
       This paper studies the supply of and demand for moral values in recent U.S. presidential elections. Using a combination of large-scale survey data and text analyses, I find support for the hypothesis that both voters and politicians exhibit heterogeneity in their emphasis on “universal” relative to “communal” moral values, and that politicians’ vote shares partly reflect the extent to which their moral appeal matches the values of the electorate. Over the last decade, Americans’ values have become increasingly communal – especially in rural areas – which generated increased moral polarization and is associated with changes in voting patterns across space.
             
 - title: "What You See Is All There Is"
   pdflink: "/pdf/What_you_see.pdf"
-  book: "Revise and resubmit, Quarterly Journal of Economics"
+  book: "Quarterly Journal of Economics"
+  bookprefix: "Revise and resubmit, "
   links:
     - url: "/pdf/Neglect.pdf"
       text: "Version 09/2017"
@@ -17,7 +19,8 @@ works:
     
 - title: "Patience and Comparative Development"
   pdflink: "/pdf/Patience.pdf"
-  book: "Revise and resubmit, Review of Economic Studies"
+  book: "Review of Economic Studies"
+  bookprefix: "Revise and resubmit, "
   coauthors: "Thomas Dohmen, Armin Falk, David Huffman, and Uwe Sunde"
   abstract: >
     This paper studies the role of heterogeneity in patience for comparative development. The empirical analysis is based on a simple OLG model in which patience drives the accumulation of physical capital, human capital, productivity improvements, and hence income. Based on a globally representative dataset on patience in 76 countries, we study the implications of the model through a combination of reduced-form estimations and simulations. In the data, patience is strongly correlated with income levels, income growth, and the accumulation of physical capital, human capital, and productivity. These relationships hold across countries, sub- national regions, and individuals. In the reduced-form analyses, the quantitative magnitude of the relationship between patience and income strongly increases in the level of aggregation. A simple parameterized version of the model generates comparable aggregation effects as a result of production complementarities and equilibrium effects, and illustrates that variation in preference endowments can account for a considerable part of the observed variation in per capita income.
