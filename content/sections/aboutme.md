@@ -1,6 +1,6 @@
 [Curriculum Vitae](/pdf/Enke_cv.pdf)
 
-My research is in behavioral and experimental economics, with frequent applications in political and cultural economics. My work focuses on two lines of inquiry. First, experimental work on the micro-foundations of bounded rationality in belief formation and choice. Second, experimental and survey-based research on heterogeneity in moral universalism (and cultural variation more generally). 
+My research is in behavioral and experimental economics, with frequent applications in political and cultural economics. My work focuses on two lines of inquiry. First, experimental work on the micro-foundations of bounded rationality in belief formation and choice. Second, experimental and survey-based research on moral universalism (and cultural variation more generally). 
 
 I received my Ph.D. in 2016 from the University of Bonn and subsequently joined Harvard's Economics Department as Assistant Professor. Currently, I also serve as Associate Editor at the Journal of the European Economic Association.
 
