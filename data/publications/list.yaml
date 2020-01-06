@@ -1,4 +1,12 @@
 works:
+
+- title: "Moral Values and Voting"
+  pdflink: "/pdf/Values_voting.pdf"
+  book: "Journal of Political Economy"
+  bookprefix: "Forthcoming, "
+  abstract: >
+      This paper studies the supply of and demand for moral values in recent U.S. presidential elections. Using a combination of large-scale survey data and text analyses, I find support for the hypothesis that both voters and politicians exhibit heterogeneity in their emphasis on “universal” relative to “communal” moral values, and that politicians’ vote shares partly reflect the extent to which their moral appeal matches the values of the electorate. Over the last decade, Americans’ values have become increasingly communal – especially in rural areas – which generated increased moral polarization and is associated with changes in voting patterns across space.
+       
 - title: "Kinship, Cooperation, and the Evolution of Moral Systems"
   pdflink: "/pdf/Moral_systems.pdf"
   book: "Quarterly Journal of Economics"
