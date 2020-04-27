@@ -5,7 +5,4 @@ My research is in behavioral and experimental economics and focuses on two lines
 I received my Ph.D. in 2016 from the University of Bonn and subsequently joined Harvard's Economics Department as Assistant Professor. Since 2018, I also serve as Associate Editor at the Journal of the European Economic Association.
 
 At Harvard, I teach a Ph.D. course on Experimental Economics and an undergraduate class on Economics and Morality; please see [here](https://scholar.harvard.edu/benke) for more information. Students can sign up for office hours [here](https://app.acuityscheduling.com/schedule.php?owner=12646405).
-
-**Thomas Graeber and I are currently hiring a full-time pre-doctoral fellow. Please see [here](/pdf/Pre-doc.pdf) for the job ad and apply [here](https://academicpositions.harvard.edu/postings/9640). Please do not contact us via email unless you have specific questions about the position.**
-
     
