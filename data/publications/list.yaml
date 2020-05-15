@@ -19,6 +19,16 @@ works:
       text: "Version 09/2017"
   abstract: >
     News reports and communication are inherently constrained by space, time, and attention. As a result, news sources often condition the decision of whether or not to share a piece of information on the similarity between the signal and the prior belief of the audience, so that the audience needs to draw inferences from a selected sample. This paper experimentally studies how people form beliefs in these contexts, in particular the mechanisms behind errors in statistical reasoning. I document that a substantial fraction of experimental participants updates beliefs by exclusively taking into account information that is right in front of them, hence neglecting selection effects. A series of treatments aimed at identifying mechanisms document that neglect is largely driven by subjects maintaining a misspecified mental model of the known information environment, according to which selection does not even come to mind. This mental model of “what you see is all there is” is not constant but predictably responds to perhaps seemingly innocuous variations in the environment, including (i) the computational complexity of the decision problem, and (ii) whether selection problems arise due to a deliberate choice between information sources or as a mechanical by-product of another decision. These results point to the context-dependence of mental models and the resulting errors in belief updating.
+
+
+- title: "Ancient Origins of the Global Variation in Economic Preferences"
+  pdflink: "/pdf/Ancient_origins.pdf"
+  book: "AEA Papers & Proceedings"
+  bookprefix: ", 2020, 110, pp. 319-323 "
+  links:
+    - url: "/pdf/Ancient_origins_appendix.dta"
+      text: "online appendix"
+
     
 - title: "Kinship, Cooperation, and the Evolution of Moral Systems"
   pdflink: "/pdf/Moral_systems.pdf"
@@ -33,7 +43,8 @@ works:
       text: "data and code"
   abstract: >
         Across the social sciences, a key question is how societies manage to enforce cooperative behavior in social dilemmas such as public goods provision or bilateral trade. According to an influential body of theories in psychology, anthropology, and evolutionary biology, the answer is that humans have evolved moral systems: packages of functional psychological and biological mechanisms that regulate economic behavior, including a belief in moralizing gods; moral values; negative reciprocity; and emotions of shame, guilt, and disgust. Based on a stylized model, this article empirically studies the structure and evolution of these moral traits as a function of historical heterogeneity in extended kinship relationships. The evidence shows that societies with a historically tightly knit kinship structure regulate behavior through communal moral values, revenge taking, emotions of external shame, and notions of purity and disgust. In loose kinship societies, on the other hand, cooperation appears to be enforced through universal moral values, internalized guilt, altruistic punishment, and an apparent rise and fall of moralizing religions. These patterns point to the presence of internally consistent but culturally variable functional moral systems. Consistent with the model, the relationship between kinship ties, economic development, and the structure of the mediating moral systems amplified over time.
-    
+
+
 - title: "Correlation Neglect in Belief Formation"
   pdflink: "/pdf/Correlation_neglect.pdf"
   book: "Review of Economic Studies"
