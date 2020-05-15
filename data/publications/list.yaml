@@ -24,7 +24,7 @@ works:
 - title: "Ancient Origins of the Global Variation in Economic Preferences"
   pdflink: "/pdf/Ancient_origins.pdf"
   book: "AEA Papers & Proceedings"
-  bookprefix: ", 2020, vol. 110, pp. 319-323 "
+  booksuffix: ", 2020, vol. 110, pp. 319-323 "
   links:
     - url: "/pdf/Ancient_origins_appendix.dta"
       text: "online appendix"
