@@ -29,15 +29,6 @@ works:
   abstract: >
      Throughout the Western world, people's policy views are correlated across domains in a strikingly similar fashion. This paper proposes that what partly explains the structure of ideology is \emph{moral universalism}: the extent to which people's altruism and trust remain constant as social distance increases. In new large-scale multinational surveys, heterogeneity in universalism descriptively explains why the left and right both simultaneously support and oppose different types of government spending. Moreover, the left-right divide on topics such as redistribution strongly depends on whether people evaluate more or less universalist policies. Large-scale donation data provide additional evidence for the political left's universalism.
 
-- title: "Moral Universalism: Measurement and Economic Relevance"
-  pdflink: "/pdf/Universalism_measuremen.pdf"
-  coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
-  links:
-    - url: "/pdf/Measurement_Tools_Package.zip"
-      text: "Qualtrics survey files to implement universalism games"
-  abstract: >
-     Many applied economic settings involve tradeoffs between in-group members and strangers. To better understand decision-making in these contexts, this paper measures and investigates the economic relevance of heterogeneity in moral universalism: the extent to which people exhibit the same level of altruism and trust towards strangers as towards in-group members. We first introduce a new experimentally-validated survey-based measure of moral universalism that is simple and easily scalable. We then deploy this tool in a large, representative sample of the U.S. population to study heterogeneity and economic relevance. We find that universalism is a relatively stable trait at the individual level. Heterogeneity in universalism is significantly related to observables: older people, men, the rich, the rural, and the religious exhibit less universalist preferences and beliefs. Linking variation in universalism to economic and social  behaviors, we document that universalists donate less money locally but more globally, and are less likely to exhibit home bias in equity and educational investments. In terms of social networks, universalists have fewer friends, spend less time with them, and feel more lonely. These results provide a blueprint for measuring moral universalism in applied settings, and suggest that variation in universalism is relevant for understanding a myriad of economic behaviors.
-    
 - title: "Cognitive Biases: Mistakes or Missing Stakes?"
   coauthors: "Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, and Jeroen van de Ven"
   pdflink: "/pdf/Biases_stakes.pdf"  
