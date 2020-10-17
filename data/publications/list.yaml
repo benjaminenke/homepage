@@ -3,7 +3,7 @@ works:
 - title: "Moral Values and Voting"
   pdflink: "/pdf/Values_voting.pdf"
   book: "Journal of Political Economy"
-  booksuffix: ", 2020, vol. 128(10), pp. 3679-3729."
+  booksuffix: ", 2020, vol. 128(10), pp. 3679-3729 (Lead Article)."
   links:
     - url: "/pdf/county.dta"
       text: "county-level moral values data"
