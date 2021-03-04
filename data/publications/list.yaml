@@ -29,7 +29,8 @@ works:
   pdflink: "/pdf/Ancient_origins.pdf"
   book: "AEA Papers & Proceedings"
   booksuffix: ", 2020, vol. 110, pp. 319-323 "
-  links:
+  coauthors: "Anke Becker, Armin Falk"
+ links:
     - url: "/pdf/Ancient_origins_appendix.dta"
       text: "online appendix"
   abstract: >
