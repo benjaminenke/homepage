@@ -4,7 +4,9 @@ works:
   pdflink: "/pdf/Values_voting.pdf"
   book: "Journal of Political Economy"
   booksuffix: ", 2020, vol. 128(10), pp. 3679-3729 (Lead Article)."
-  links:
+  links:   
+    - url: "https://microeconomicinsights.org/moral-values-and-voting/"
+      text: "microeconomic insights column"
     - url: "/pdf/county.dta"
       text: "county-level moral values data"
     - url: "https://www.journals.uchicago.edu/doi/suppl/10.1086/708857"
