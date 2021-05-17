@@ -8,6 +8,32 @@ works:
   abstract: >
      This paper studies the relationship between patience and comparative development through a combination of reduced-form analyses and model estimations. Based on a globally representative dataset on time preference in 76 countries, we document two sets of stylized facts. First, patience is strongly correlated with both per capita income and the accumulation of physical capital, human capital and productivity. These correlations hold across countries, subnational regions, and individuals. Second, the quantitative magnitude of the patience elasticity strongly increases in the level of aggregation. To provide an interpretive lens for these patterns, we analyze an OLG model in which savings and education decisions are endogenous to patience, and aggregate production is characterized by capital-skill complementarities. This model reconciles both the correlations between patience and macroeconomic variables as well as the substantial amplification of patience elasticities at higher levels of aggregation. The results of model estimations resemble the reduced-form patterns and suggest that cross-country variation in productivity plays an important role in generating the observed comparative development patterns and aggregation effects.
 
+- title: "Moral Universalism: Measurement and Economic Relevance"
+  pdflink: "/pdf/Universalism_measurement.pdf"
+  coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
+  book: "Management Science"
+  bookprefix: "Forthcoming, "
+  links:
+    - url: "/pdf/Measurement_Tools_Package.zip"
+      text: "Qualtrics survey files to implement universalism games"
+  abstract: >
+     Many applied economic settings involve tradeoffs between in-group members and strangers. To better understand decision-making in these contexts, this paper measures and investigates the economic relevance of heterogeneity in moral universalism: the extent to which people exhibit the same level of altruism and trust towards strangers as towards in-group members. We first introduce a new experimentally-validated survey-based measure of moral universalism that is simple and easily scalable. We then deploy this tool in a large, representative sample of the U.S. population to study heterogeneity and economic relevance. We find that universalism is a relatively stable trait at the individual level. Heterogeneity in universalism is significantly related to observables: older people, men, the rich, the rural, and the religious exhibit less universalist preferences and beliefs. Linking variation in universalism to economic and social  behaviors, we document that universalists donate less money locally but more globally, and are less likely to exhibit home bias in equity and educational investments. In terms of social networks, universalists have fewer friends, spend less time with them, and feel more lonely. These results provide a blueprint for measuring moral universalism in applied settings, and suggest that variation in universalism is relevant for understanding a myriad of economic behaviors.
+    
+- title: "Cognitive Biases: Mistakes or Missing Stakes?"
+  coauthors: "Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, and Jeroen van de Ven"
+  book: "Review of Economics and Statistics"
+  bookprefix: "Forthcoming, "
+  pdflink: "/pdf/Biases_stakes.pdf"  
+  abstract: >
+     Despite decades of research on heuristics and biases, empirical evidence on the effect of large incentives -- as present in relevant economic decisions -- on cognitive biases is scant. This paper tests the effect of incentives on four widely documented biases: base rate neglect, anchoring, failure of contingent thinking, and intuitive reasoning in the Cognitive Reflection Test. In pre-registered laboratory experiments with 1,236 college students in Nairobi, we implement three incentive levels: no incentives, standard lab payments, and very high incentives that increase the stakes by a factor of 100 to more than a monthly income. We find that cognitive effort as measured by response times increases by 40% with very high stakes. Performance, on the other hand, improves very mildly or not at all as incentives increase, with the largest improvements due to a reduced reliance on intuitions. In none of the tasks are very high stakes sufficient to de-bias participants, or come even close to doing so. These results contrast with expert predictions that forecast larger performance improvements.
+
+- title: "Confidence and central tendency in perceptual judgment"
+  coauthors: "Yang Xiang, Thomas Graeber, and Samuel Gershman"
+  book: "Attention, Perception & Psychophysics"
+  bookprefix: "Forthcoming, "
+  pdflink: "/pdf/Perception.pdf"  
+  abstract: >
+    This paper theoretically and empirically investigates the role of noisy cognition in perceptual judgment, focusing on the central tendency effect: the well-known empirical regularity that perceptual judgments are biased towards the center of the stimulus distribution. Based on a formal Bayesian framework, we generate predictions about the relationships between subjective confidence, central tendency, and response variability. Specifically, our model clarifies that lower subjective confidence as a measure of posterior uncertainty about a judgment should predict (i) a lower sensitivity of magnitude estimates to objective stimuli; (ii) a higher sensitivity to the mean of the stimulus distribution; (iii) a stronger central tendency effect at higher stimulus magnitudes; and (iv) higher response variability. To test these predictions, we collect a large-scale experimental data set and additionally re-analyze perceptual judgment data from several previous experiments. Across data sets, subjective confidence is strongly predictive of the central tendency effect and response variability, both correlationally and when we exogenously manipulate the magnitude of sensory noise. Our results are consistent with (but not necessarily uniquely explained by) Bayesian models of confidence and the central tendency.
 
 - title: "Moral Values and Voting"
   pdflink: "/pdf/Values_voting.pdf"
