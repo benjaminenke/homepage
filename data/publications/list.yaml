@@ -1,5 +1,14 @@
 works:
 
+- title: "Patience and Comparative Development"
+  pdflink: "/pdf/Patience.pdf"
+  book: "Review of Economic Studies"
+  bookprefix: "Forthcoming, "
+  coauthors: "Uwe Sunde, Thomas Dohmen, Armin Falk, David Huffman, and Gerrit Meyerheim"
+  abstract: >
+     This paper studies the relationship between patience and comparative development through a combination of reduced-form analyses and model estimations. Based on a globally representative dataset on time preference in 76 countries, we document two sets of stylized facts. First, patience is strongly correlated with both per capita income and the accumulation of physical capital, human capital and productivity. These correlations hold across countries, subnational regions, and individuals. Second, the quantitative magnitude of the patience elasticity strongly increases in the level of aggregation. To provide an interpretive lens for these patterns, we analyze an OLG model in which savings and education decisions are endogenous to patience, and aggregate production is characterized by capital-skill complementarities. This model reconciles both the correlations between patience and macroeconomic variables as well as the substantial amplification of patience elasticities at higher levels of aggregation. The results of model estimations resemble the reduced-form patterns and suggest that cross-country variation in productivity plays an important role in generating the observed comparative development patterns and aggregation effects.
+
+
 - title: "Moral Values and Voting"
   pdflink: "/pdf/Values_voting.pdf"
   book: "Journal of Political Economy"
