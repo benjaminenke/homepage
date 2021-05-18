@@ -18,7 +18,6 @@ works:
       text: "VOX column"
 
 - title: "Cognitive Uncertainty in Intertemporal Choice"
-  pdflink: "/pdf/cognitive_uncertainty.pdf"
   coauthors: "Thomas Graeber"
   abstract: >
      Because many economic decisions are difficult, people may exhibit cognitive uncertainty: subjective uncertainty about what the optimal action is. This paper shows that cognitive uncertainty predicts economic beliefs and actions, and that it provides a unifying lens for understanding behavioral anomalies in how people think about probabilities. The main idea is that when people are cognitively uncertain, they act as if they compress objective probabilities towards a cognitive default that is given by an ignorance prior. By experimentally measuring and exogenously manipulating cognitive uncertainty in different decision contexts, our analysis brings together and partially explains a large set of empirical regularities in choice under risk, choice under ambiguity, belief updating, and survey forecasts of economic variables. These include the probability weighting function, the fourfold pattern of risk attitudes, ambiguity-insensitivity, base rate insensitivity, conservatism, sample proportion effects, and predictable overoptimism and -pessimism in economic forecasts. Because people's reported cognitive uncertainty systematically varies as a function of the objective probabilities in a decision problem, our framework also sheds light on the pronounced inverse S-shaped response patterns that pervade different literatures in behavioral economics.
