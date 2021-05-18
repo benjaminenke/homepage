@@ -18,10 +18,7 @@ works:
       text: "VOX column"
  
  - title: "Cognitive Uncertainty in Intertemporal Choice"
-   pdflink: "/pdf/cognitive_uncertainty.pdf"
    coauthors: "Thomas Graeber"
-   abstract: >
-     Because evaluating intertemporal tradeoffs is often cognitively difficult, people may exhibit cognitive uncertainty: subjective uncertainty about the utility-maximizing action. We study the idea that, in the presence of cognitive uncertainty, decisions reflect a convex combination of discounted-utility considerations and people's initial, pre-deliberation reaction to a choice problem. As a result, observed intertemporal decisions look as if the decision-maker partially ``lumps different time delays together.'' In our experiments, cognitive uncertainty sheds light on various well-known empirical regularities, such as the puzzle that people are often extremely impatient in the short run but appear considerably more patient over long horizons. We also establish tight links between cognitive uncertainty, choice variability and subadditive discounting.  Investigating implications for choice architecture, we find that cognitively uncertain participants are more likely to follow the advice of outside experts to act in more patient ways. The results of model estimations suggest that both bounded rationality in the form of cognitive uncertainty and a desire for immediate gratification meaningfully contribute to intertemporal choice.
 
       
 - title: "Moral Universalism and the Structure of Ideology"
