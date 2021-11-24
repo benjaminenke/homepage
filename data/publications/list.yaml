@@ -30,7 +30,7 @@ works:
 - title: "Confidence and central tendency in perceptual judgment"
   coauthors: "Yang Xiang, Thomas Graeber, and Samuel Gershman"
   book: "Attention, Perception & Psychophysics"
-  bookprefix: ", 2021, 83, pp. 3024-3034."
+  booksuffix: ", 2021, 83, pp. 3024-3034."
   pdflink: "/pdf/Perception.pdf"  
   abstract: >
     This paper theoretically and empirically investigates the role of noisy cognition in perceptual judgment, focusing on the central tendency effect: the well-known empirical regularity that perceptual judgments are biased towards the center of the stimulus distribution. Based on a formal Bayesian framework, we generate predictions about the relationships between subjective confidence, central tendency, and response variability. Specifically, our model clarifies that lower subjective confidence as a measure of posterior uncertainty about a judgment should predict (i) a lower sensitivity of magnitude estimates to objective stimuli; (ii) a higher sensitivity to the mean of the stimulus distribution; (iii) a stronger central tendency effect at higher stimulus magnitudes; and (iv) higher response variability. To test these predictions, we collect a large-scale experimental data set and additionally re-analyze perceptual judgment data from several previous experiments. Across data sets, subjective confidence is strongly predictive of the central tendency effect and response variability, both correlationally and when we exogenously manipulate the magnitude of sensory noise. Our results are consistent with (but not necessarily uniquely explained by) Bayesian models of confidence and the central tendency.
