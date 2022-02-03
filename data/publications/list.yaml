@@ -27,7 +27,7 @@ works:
   abstract: >
      Despite decades of research on heuristics and biases, empirical evidence on the effect of large incentives -- as present in relevant economic decisions -- on cognitive biases is scant. This paper tests the effect of incentives on four widely documented biases: base rate neglect, anchoring, failure of contingent thinking, and intuitive reasoning in the Cognitive Reflection Test. In pre-registered laboratory experiments with 1,236 college students in Nairobi, we implement three incentive levels: no incentives, standard lab payments, and very high incentives that increase the stakes by a factor of 100 to more than a monthly income. We find that cognitive effort as measured by response times increases by 40% with very high stakes. Performance, on the other hand, improves very mildly or not at all as incentives increase, with the largest improvements due to a reduced reliance on intuitions. In none of the tasks are very high stakes sufficient to de-bias participants, or come even close to doing so. These results contrast with expert predictions that forecast larger performance improvements.
 
-- title: "Confidence and central tendency in perceptual judgment"
+- title: "Confidence and Central Tendency in Perceptual Judgment"
   coauthors: "Yang Xiang, Thomas Graeber, and Samuel Gershman"
   book: "Attention, Perception & Psychophysics"
   booksuffix: ", 2021, 83, pp. 3024-3034."
