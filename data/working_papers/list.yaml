@@ -26,7 +26,7 @@ works:
      This paper experimentally studies the role of associative recall for belief formation. Information is often embedded in memorable contexts, which may cue the asymmetric recall of similar past news through associative memory. We design a simple and tightly controlled theory-driven experiment, in which participants observe sequences of signals about hypothetical companies. Here, identical signal realizations are communicated with identical contexts: stories and images. Because participants predominantly remember those past signals that get cued by the current context, participants' expectations strongly overreact to recent news. Investigating various model comparative statics and limits of the role of associative memory, we find support for the model's predictions about how overreaction depends on exogenous variation in the signal history; the correlation between signals and contexts; and the experimentally-induced scope for forgetting and associative memory. We use our experimental data to structurally estimate the model parameters that govern the strength of imperfect and associative recall.
     
 - title: "Cognitive Uncertainty"
-  pdflink: "/pdf/cognitive_uncertainty.pdf"
+  pdflink: "/pdf/Cognitive_uncertainty.pdf"
   book: "Quarterly Journal of Economics"
   bookprefix: "Revise and resubmit, "
   coauthors: "Thomas Graeber"
