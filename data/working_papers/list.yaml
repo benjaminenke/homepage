@@ -29,12 +29,12 @@ works:
     - url: "https://voxeu.org/article/cognitive-uncertainty?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
       text: "VOX column"
 
-- title: "Cognitive Uncertainty in Intertemporal Choice"
+- title: "Noisy Cognition and Intertemporal Choice"
   pdflink: "/pdf/CU_intertemporal.pdf"
   coauthors: "Thomas Graeber"
   abstract: >
-     This paper studies the relevance of cognitive uncertainty -- subjective uncertainty over one's utility-maximizing action -- for understanding and predicting intertemporal choice. The main idea is that when people are cognitively noisy, such as when a decision is complex, they implicitly treat different time delays to some degree alike. By experimentally measuring and manipulating cognitive uncertainty, we document  three economic implications of this idea. First,  cognitive uncertainty explains various core empirical regularities, such as why people often appear very impatient, why per-period impatience is smaller over long than over short horizons, why discounting is often hyperbolic even when the present is not involved, and why choices frequently violate transitivity. Second, impatience is context-dependent: discounting is substantially more hyperbolic when the decision environment is more complex. Third, cognitive uncertainty matters for choice architecture: people who are nervous about making mistakes are twice as likely to follow expert advice to be more patient.
-     
+    The most widely-studied and robust deviations of intertemporal choice behavior from the exponential discounted utility paradigm are typically conceptualized as resulting from non-standard preferences. We experimentally study the hypothesis that many of these patterns are instead largely driven by noisy cognitive processes, which lead people to implicitly treat different time delays alike to some degree. In our experiments, we measure cognitive uncertainty, which captures people's awareness of their noisiness. In the data, cognitive uncertainty strongly predicts various core empirical regularities, such as why people often appear very impatient over short horizons, why per-period impatience is smaller over long than over short horizons, why discounting is hyperbolic even when the present is not involved, and why choices violate transitivity. An account of noisy cognition also makes two new predictions, which we test and confirm: discounting is more hyperbolic when a decision is more complex, and cognitive uncertainty is strongly predictive of following expert advice.     
+
 - title: "Confidence, Self-Selection and Bias in the Aggregate"
   pdflink: "/pdf/Confidence_aggregate.pdf"
   coauthors: "Thomas Graeber and Ryan Oprea"
