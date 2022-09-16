@@ -20,9 +20,9 @@ works:
     
 - title: "Cognitive Uncertainty"
   pdflink: "/pdf/Cognitive_uncertainty.pdf"
-- links:
-    url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
-    text: "Column for UNDP Human Development Report 2022"
+  links:
+    - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
+      text: "Column for UNDP Human Development Report 2022"
   book: "Quarterly Journal of Economics"
   bookprefix: "Revise and resubmit, "
   coauthors: "Thomas Graeber"
