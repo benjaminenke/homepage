@@ -20,9 +20,6 @@ works:
     
 - title: "Cognitive Uncertainty"
   pdflink: "/pdf/Cognitive_uncertainty.pdf"
-  links:
-    - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
-      text: "Column for UNDP Human Development Report 2022"
   book: "Quarterly Journal of Economics"
   bookprefix: "Revise and resubmit, "
   coauthors: "Thomas Graeber"
@@ -31,7 +28,9 @@ works:
   links:
     - url: "https://voxeu.org/article/cognitive-uncertainty?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
       text: "VOX column"
-
+    - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
+      text: "Column for UNDP Human Development Report 2022"
+      
 - title: "Noisy Cognition and Intertemporal Choice"
   pdflink: "/pdf/CU_intertemporal.pdf"
   coauthors: "Thomas Graeber"
