@@ -27,6 +27,12 @@ works:
   abstract: >
      Despite decades of research on heuristics and biases, empirical evidence on the effect of large incentives -- as present in relevant economic decisions -- on cognitive biases is scant. This paper tests the effect of incentives on four widely documented biases: base rate neglect, anchoring, failure of contingent thinking, and intuitive reasoning in the Cognitive Reflection Test. In pre-registered laboratory experiments with 1,236 college students in Nairobi, we implement three incentive levels: no incentives, standard lab payments, and very high incentives that increase the stakes by a factor of 100 to more than a monthly income. We find that cognitive effort as measured by response times increases by 40% with very high stakes. Performance, on the other hand, improves very mildly or not at all as incentives increase, with the largest improvements due to a reduced reliance on intuitions. In none of the tasks are very high stakes sufficient to de-bias participants, or come even close to doing so. These results contrast with expert predictions that forecast larger performance improvements.
 
+- title: "Market Exposure and Human Morality"
+  book: "Nature Human Behaviour"
+  booksuffix: ", 2022"
+  abstract: >
+     According to evolutionary theories, markets may foster an internalized and universalist prosociality because it supports market-based cooperation. This paper uses the cultural folklore of 943 pre-industrial ethnolinguistic groups to show that a society's degree of market interactions, proxied by the presence of intercommunity trade and money, is associated with the cultural salience of (i) prosocial behavior; (ii) interpersonal trust; (iii) universalist moral values; and (iv) moral emotions of guilt, shame and anger. To provide tentative evidence that a part of this correlation reflects a causal effect of market interactions, the analysis leverages both fine-grained geographic variation across neighboring historical societies and plausibly exogenous variation in the presence of markets that arises through proximity to historical trade routes or the local degree of ecological diversity. The results suggest that the coevolutionary process involving markets and morality partly consists of economic markets shaping a moral system of a universalist and internalized prosociality.
+
 - title: "Patience and Comparative Development"
   pdflink: "/pdf/Patience.pdf"
   book: "Review of Economic Studies"
