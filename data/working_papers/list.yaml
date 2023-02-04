@@ -31,11 +31,11 @@ works:
     - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
       text: "Column for UNDP Human Development Report 2022"
       
-- title: "Noisy Cognition and Intertemporal Choice"
-  pdflink: "/pdf/CU_intertemporal.pdf"
-  coauthors: "Thomas Graeber"
+- title: "Complexity and Time"
+  pdflink: "/pdf/Complexity_time.pdf"
+  coauthors: "Thomas Graeber and Ryan Oprea"
   abstract: >
-    The most widely-studied and robust deviations of intertemporal choice behavior from the exponential discounted utility paradigm are typically conceptualized as resulting from non-standard preferences. We experimentally study the hypothesis that many of these patterns are instead largely driven by noisy cognitive processes, which lead people to implicitly treat different time delays alike to some degree. In our experiments, we measure cognitive uncertainty, which captures people's awareness of their noisiness. In the data, cognitive uncertainty strongly predicts various core empirical regularities, such as why people often appear very impatient over short horizons, why per-period impatience is smaller over long than over short horizons, why discounting is hyperbolic even when the present is not involved, and why choices violate transitivity. An account of noisy cognition also makes two new predictions, which we test and confirm: discounting is more hyperbolic when a decision is more complex, and cognitive uncertainty is strongly predictive of following expert advice.     
+      We provide experimental evidence that core intertemporal choice anomalies -- including extreme short-run impatience, econometrically estimated present bias, hyperbolicity and transitivity violations -- reflect responses to complexity rather than time or risk preferences.  First, these anomalies also arise in structurally similar atemporal decision problems involving valuation of recursively discounted but immediately-paid rewards. These computational errors are strongly predictive of intertemporal decisions.  Second, in intertemporal choice, anomalies are highly correlated with indices of complexity responses including cognitive uncertainty and choice inconsistency.  Multiple streams of evidence suggest that the complexity of intertemporal choice is driven by the difficulty of recursive reasoning.
 
 - title: "Confidence, Self-Selection and Bias in the Aggregate"
   pdflink: "/pdf/Confidence_aggregate.pdf"
