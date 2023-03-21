@@ -6,11 +6,11 @@ works:
   abstract: >
     This paper presents a new set of stylized facts about the global variation in universalism, leveraging hypothetical money allocation tasks deployed in representative samples of 64,000 people from 60 countries. Our data reveal large variation in universalism within and across countries, which almost entirely reflects heterogeneity in people's moral views regarding how to treat different types of relationships. These moral views vary systematically with age, gender and religiosity. Universalism is strongly predictive of relevant outcomes such as civic engagement and left-wing economic and social policy views, in particular in the rich West. Across countries, universalism varies with the economic, political and religious organization of societies. We provide tentative evidence that experience with democracy makes people more universalist. Overall, our results show that moral universalism shapes and is shaped by politico-economic outcomes across the globe.
 
-- title: "Values as Luxury Goods and Political Polarization"
+- title: "Values as Luxury Goods and Political Behavior"
   pdflink: "/pdf/Luxury_goods.pdf"
   coauthors: "Mattias Polborn and Alex Wu"
   abstract: > 
-    This paper develops a theory of political behavior in which values are a luxury good: the relative weight that voters place on values rather than material considerations increases in income. This idea both generates new testable implications and ties together a broad set of empirical regularities about political polarization in the U.S. The model predicts (i) voters who are sufficiently rich to afford voting left; (ii) that more rich than poor people vote against their material interests; (iii) that Democrats are internally more fragmented than Republicans; and (iv) widely-discussed realignments: rich moral liberals who swing Democrat, and poor moral conservatives who swing Republican. Assuming that parties set policies by aggregating their supporters' preferences, the model also predicts increasing social party polarization over time, such that poor moral conservatives swing Republican even though their relative incomes decreased. We relate these predictions to known stylized facts, and test our new predictions empirically.
+    This paper develops a model of political behavior in which values are a luxury good: the relative weight that voters place on values rather than material considerations increases in income. To motivate this novel assumption, we leverage a tailored survey to document that the importance voters assign to social versus economic policy issues increases in income. Our model generates new testable implications and ties together various empirical regularities about political conflict in the U.S. The theory predicts (i) voters who are sufficiently rich to afford voting left and supporting redistribution; (ii)~that more rich than poor people vote against their material interests; (iii)~that Democrats are internally more fragmented than Republicans; and (iv) widely-discussed realignments: rich moral liberals who swing Democrat, and poor moral conservatives who swing Republican. We test and confirm our new predictions empirically.
 
 - title: "Associative Memory and Belief Formation"
   pdflink: "/pdf/Memory.pdf"
@@ -18,18 +18,6 @@ works:
   abstract: >
      This paper experimentally studies the role of associative recall for belief formation. Information is often embedded in memorable contexts, which may cue the asymmetric recall of similar past news through associative memory. We design a simple and tightly controlled theory-driven experiment, in which participants observe sequences of signals about hypothetical companies. Here, identical signal realizations are communicated with identical contexts: stories and images. Because participants predominantly remember those past signals that get cued by the current context, participants' expectations strongly overreact to recent news. Investigating various model comparative statics and limits of the role of associative memory, we find support for the model's predictions about how overreaction depends on exogenous variation in the signal history; the correlation between signals and contexts; and the experimentally-induced scope for forgetting and associative memory. We use our experimental data to structurally estimate the model parameters that govern the strength of imperfect and associative recall.
     
-- title: "Cognitive Uncertainty"
-  pdflink: "/pdf/Cognitive_uncertainty.pdf"
-  book: "Quarterly Journal of Economics"
-  bookprefix: "Conditionally accepted, "
-  coauthors: "Thomas Graeber"
-  abstract: >
-    This paper documents the economic relevance of measuring cognitive uncertainty: people's subjective uncertainty over their ex-ante utility-maximizing decision. In a series of experiments on choice under risk, the formation of beliefs and forecasts of economic variables, we show that cognitive uncertainty predicts systematic biases in economic decisions and that it can be deployed to provide tests of formal theories. When people are cognitively uncertain -- either endogenously or because the problem is designed to be complex -- their decisions are heavily attenuated functions of objective probabilities, which gives rise to behavior that is regressive to an intermediate option. This insight ties together a wide range of empirical regularities in behavioral economics that are typically viewed as distinct phenomena or even as reflecting preferences, including the probability weighting function in choice under risk; base rate insensitivity, conservatism and sample size effects in belief updating; and predictable overoptimism and -pessimism in  forecasts of economic variables. Our results offer a blueprint for how a simple measurement of cognitive uncertainty generates novel insights about what people find complex and how they respond to it.
-  links:
-    - url: "https://voxeu.org/article/cognitive-uncertainty?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
-      text: "VOX column"
-    - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
-      text: "Column for UNDP Human Development Report 2022"
       
 - title: "Complexity and Time"
   pdflink: "/pdf/Complexity_time.pdf"
