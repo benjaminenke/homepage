@@ -12,6 +12,12 @@ works:
   abstract: > 
      Motivated by novel survey evidence, this paper develops a theory of political behavior in which values are a luxury good: the relative weight voters place on values rather than material considerations increases in income. The model predicts (i) voters who are sufficiently rich to afford voting left; (ii) that more rich than poor people vote against their material interests; (iii) that Democrats are internally more fragmented than Republicans; (iv) that income and voting Republican are positively correlated across voters but negatively across states; and (v) the realignment of rich moral liberals and poor moral conservatives. We test our predictions empirically.
 
+- title: "Universalism and Political Representation: Evidence from the Field"
+  pdflink: "/pdf/Univ_field.pdf"
+  coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
+  abstract: >
+     This paper provides field evidence on the link between morals and political behavior. We develop a theory-guided real-stakes measure of each U.S. district's values on the universalism-particularism continuum, which reflects the degree to which charitable giving decreases as a function of social distance. District universalism is strongly predictive of local Democratic vote shares, legislators' roll-call voting, and the moral content of Congressional speeches. These results hold in both across- and within-party analyses. Overall, spatial heterogeneity in universalism is a substantially stronger predictor of geographic variation in political outcomes than traditional economic variables such as income or education.
+
 - title: "Associative Memory and Belief Formation"
   pdflink: "/pdf/Memory.pdf"
   coauthors: "Frederik Schwerter and Florian Zimmermann"
