@@ -18,12 +18,11 @@ works:
   abstract: >
      This paper provides field evidence on the link between morals and political behavior. We develop a theory-guided real-stakes measure of each U.S. district's values on the universalism-particularism continuum, which reflects the degree to which charitable giving decreases as a function of social distance. District universalism is strongly predictive of local Democratic vote shares, legislators' roll-call voting, and the moral content of Congressional speeches. These results hold in both across- and within-party analyses. Overall, spatial heterogeneity in universalism is a substantially stronger predictor of geographic variation in political outcomes than traditional economic variables such as income or education.
 
-- title: "Associative Memory and Belief Formation"
+- title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
   coauthors: "Frederik Schwerter and Florian Zimmermann"
   abstract: >
-     This paper experimentally studies the role of associative recall for belief formation. Information is often embedded in memorable contexts, which may cue the asymmetric recall of similar past news through associative memory. We design a simple and tightly controlled theory-driven experiment, in which participants observe sequences of signals about hypothetical companies. Here, identical signal realizations are communicated with identical contexts: stories and images. Because participants predominantly remember those past signals that get cued by the current context, participants' expectations strongly overreact to recent news. Investigating various model comparative statics and limits of the role of associative memory, we find support for the model's predictions about how overreaction depends on exogenous variation in the signal history; the correlation between signals and contexts; and the experimentally-induced scope for forgetting and associative memory. We use our experimental data to structurally estimate the model parameters that govern the strength of imperfect and associative recall.
-    
+     Recent theories and narratives highlight the potential role of associative recall in driving overreaction in expectations and market behavior. Based on a simple model, we test this idea through a series of experiments in which news are communicated with memorable contexts. Because participants predominantly remember those past signals that get cued by the current one, their beliefs about fundamentals strongly overreact to news and exhibit systematic history-dependence. In a betting market experiment, associative recall translates into overreaction in market prices, which makes realized prices too extreme. Our results highlight the importance of associative memory for beliefs and economic decisions.
       
 - title: "Complexity and Time"
   pdflink: "/pdf/Complexity_time.pdf"
