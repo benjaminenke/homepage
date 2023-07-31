@@ -16,6 +16,10 @@ works:
   book: "American Economic Review: Insights"
   bookprefix: "Conditionally accepted, "
   
+- title: "Quantifying Lottery Choice Complexity"
+  pdflink: "/pdf/Quant_complexity.pdf"
+  coauthors: "Cassidy Shubatt"
+  
 - title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
   coauthors: "Frederik Schwerter and Florian Zimmermann"
