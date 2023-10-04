@@ -19,7 +19,10 @@ works:
 - title: "Quantifying Lottery Choice Complexity"
   pdflink: "/pdf/Quant_complexity.pdf"
   coauthors: "Cassidy Shubatt"
-  
+  links:
+    - url: "https://github.com/cshubatt/Complexity-Index"
+      text: "Code to compute complexity indices"
+      
 - title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
   coauthors: "Frederik Schwerter and Florian Zimmermann"
