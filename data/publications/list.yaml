@@ -4,6 +4,12 @@ works:
   pdflink: "/pdf/Moral_boundaries.pdf"
   book: "Annual Review of Economics"
   bookprefix: "Forthcoming, "
+
+- title: "Universalism and Political Representation: Evidence from the Field"
+  pdflink: "/pdf/Univ_legislators.pdf"
+  coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
+  book: "American Economic Review: Insights"
+  bookprefix: "Forthcoming, "
   
 - title: "Cognitive Uncertainty"
   pdflink: "/pdf/Cognitive_uncertainty.pdf"
