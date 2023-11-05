@@ -19,6 +19,8 @@ works:
       
 - title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
+  book: "Journal of Financial Economics"
+  bookprefix: "Conditionally accepted, "
   coauthors: "Frederik Schwerter and Florian Zimmermann"
       
 - title: "Complexity and Time"
