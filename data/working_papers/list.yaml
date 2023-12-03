@@ -17,12 +17,6 @@ works:
     - url: "https://github.com/cshubatt/Complexity-Index"
       text: "Code to compute complexity indices"
       
-- title: "Associative Memory, Beliefs and Market Interactions"
-  pdflink: "/pdf/Memory.pdf"
-  book: "Journal of Financial Economics"
-  bookprefix: "Conditionally accepted, "
-  coauthors: "Frederik Schwerter and Florian Zimmermann"
-      
 - title: "Complexity and Time"
   pdflink: "/pdf/Complexity_time.pdf"
   coauthors: "Thomas Graeber and Ryan Oprea"
