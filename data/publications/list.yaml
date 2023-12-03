@@ -10,6 +10,12 @@ works:
   coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
   book: "American Economic Review: Insights"
   bookprefix: "Forthcoming, "
+
+- title: "Associative Memory, Beliefs and Market Interactions"
+  pdflink: "/pdf/Memory.pdf"
+  book: "Journal of Financial Economics"
+  bookprefix: "Forthcoming, "
+  coauthors: "Frederik Schwerter and Florian Zimmermann"
   
 - title: "Cognitive Uncertainty"
   pdflink: "/pdf/Cognitive_uncertainty.pdf"
