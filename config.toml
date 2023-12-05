@@ -8,7 +8,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
     shortbio = "Associate Professor, Department of Economics, Harvard University"                
     shortbio2 = "Faculty Research Fellow, NBER"
-    logo = "enke.jpg" 
+    logo = "BEnke.jpg" 
     contact = """
 __Email__: [enke@fas.harvard.edu](enke@fas.harvard.edu)  
 
