@@ -13,6 +13,8 @@ works:
 - title: "Quantifying Lottery Choice Complexity"
   pdflink: "/pdf/Quant_complexity.pdf"
   coauthors: "Cassidy Shubatt"
+  book: "Econometrica"
+  bookprefix: "Revise and resubmit, "
   links:
     - url: "https://github.com/cshubatt/Complexity-Index"
       text: "Code to compute complexity indices"
