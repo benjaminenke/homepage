@@ -24,7 +24,7 @@ works:
   bookprefix: "Revise and resubmit, "
   links:
     - url: "https://github.com/cshubatt/Complexity-Index"
-      text: "Code to compute complexity indices"
+      text: "Code"
 
 - title: "Values as Luxury Goods and Political Behavior"
   pdflink: "/pdf/Luxury_goods.pdf"
