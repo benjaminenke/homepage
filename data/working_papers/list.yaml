@@ -11,10 +11,10 @@ works:
   book: "American Economic Review"
   bookprefix: "Conditionally accepted, "
 
-- title: "Values as Luxury Goods and Political Behavior"
-  pdflink: "/pdf/Luxury_goods.pdf"
-  coauthors: "Mattias Polborn and Alex Wu"
-  book: "Journal of the European Economic Association"
+- title: "Herding, Warfare and a Culture of Honor: Global Evidence"
+  pdflink: "/pdf/Culture_of_Honor.pdf"
+  coauthors: "Yiming Cao, Armin Falk, Paola Giuliano and Nathan Nunn"
+  book: "American Economic Review"
   bookprefix: "Revise and resubmit, "
   
 - title: "Quantifying Lottery Choice Complexity"
@@ -25,15 +25,19 @@ works:
   links:
     - url: "https://github.com/cshubatt/Complexity-Index"
       text: "Code to compute complexity indices"
+
+- title: "Values as Luxury Goods and Political Behavior"
+  pdflink: "/pdf/Luxury_goods.pdf"
+  coauthors: "Mattias Polborn and Alex Wu"
+  book: "Journal of the European Economic Association"
+  bookprefix: "Revise and resubmit, "
+  
+
       
 - title: "Complexity and Hyperbolic Discounting"
   pdflink: "/pdf/Complexity_time.pdf"
   coauthors: "Thomas Graeber and Ryan Oprea"
 
-- title: "Herding, Warfare and a Culture of Honor: Global Evidence"
-  pdflink: "/pdf/Culture_of_Honor.pdf"
-  coauthors: "Yiming Cao, Armin Falk, Paola Giuliano and Nathan Nunn"
-  book: "American Economic Review"
-  bookprefix: "Revise and resubmit, "
+
 
 
