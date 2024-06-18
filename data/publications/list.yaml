@@ -19,9 +19,9 @@ works:
   coauthors: "Thomas Graeber"
   links:
     - url: "https://voxeu.org/article/cognitive-uncertainty?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
-      text: "VOX column"
+      text: "VOX"
     - url: "https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf"
-      text: "UNDP HDR column"
+      text: "UNDP column"
       
 - title: "Moral Universalism and the Structure of Ideology"
   pdflink: "/pdf/Universalism_ideology.pdf"
@@ -99,9 +99,9 @@ works:
   booksuffix: ", 2019, vol. 134(2), pp. 953-1019."
   links:
     - url: "https://voxeu.org/article/kinship-cooperation-and-culture"
-      text: "VOX column"
+      text: "VOX"
     - url: "https://www.cesifo.org/en/research-network"
-      text: "Distinguished CESifo Affiliate Award"
+      text: "CESifo Award"
 
 - title: "Correlation Neglect in Belief Formation"
   pdflink: "/pdf/Correlation_neglect.pdf"
