@@ -4,6 +4,7 @@ works:
   coeditors: "Co-edited with Paola Giuliano, Nathan Nunn and Leonard Wantchekon"
   book: "Elsevier Handbooks in Economics"
   bookprefix: "To appear in "
+  booksuffix: "."
   links:
     - url: "/pdf/Contributors_ Handbook_Culture_Economic_Behavior.pdf"
       text: "Table of Contents"
@@ -12,9 +13,11 @@ works:
   pdflink: "/pdf/Moral_boundaries.pdf"
   book: "Annual Review of Economics"
   bookprefix: "Forthcoming, "
+  booksuffix: "."
 
 - title: "'Morality and Political Economy' from the Vantage Point of Economics"
   pdflink: "/pdf/Morality_PE.pdf"
   book: "PNAS Nexus"
   bookprefix: "Invited for special issue of "
+  booksuffix: "."
   
