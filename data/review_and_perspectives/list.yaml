@@ -6,7 +6,7 @@ works:
   bookprefix: "To appear in "
   links:
     - url: "/pdf/Contributors_ Handbook_Culture_Economic_Behavior.pdf"
-      text: "toc"
+      text: "Table of Contents"
       
 - title: "Moral Boundaries"
   pdflink: "/pdf/Moral_boundaries.pdf"
