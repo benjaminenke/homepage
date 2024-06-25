@@ -1,5 +1,12 @@
 works:
 
+- title: "Universalism: Global Evidence"
+  pdflink: "/pdf/Universalism_global.pdf"
+  coauthors: "Alexander Cappelen and Bertil Tungodden"
+  book: "American Economic Review"
+  bookprefix: "Conditionally accepted (data packet), "
+  booksuffix: "."
+  
 - title: "Universalism and Political Representation: Evidence from the Field"
   pdflink: "/pdf/Univ_legislators.pdf"
   coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
