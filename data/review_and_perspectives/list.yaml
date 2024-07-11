@@ -11,6 +11,10 @@ works:
   book: "PNAS Nexus"
   bookprefix: "Forthcoming, "
   booksuffix: "."
+
+- title: "The Cognitive Turn in Behavioral Economics"
+  pdflink: "/pdf/Cognitive_turn.pdf"
+
   
 - title: "Handbook of Culture and Economic Behavior"
   coeditors: "Co-edited with Paola Giuliano, Nathan Nunn and Leonard Wantchekon"
