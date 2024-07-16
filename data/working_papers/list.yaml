@@ -37,13 +37,13 @@ works:
   
 - title: "Behavioral Attenuation"
   coauthors: "Thomas Graeber, Ryan Oprea and Jeffrey Yang"
-  book: "Working Paper"
+  bookprefix: "Working Paper"
   booksuffix: "."
   
 - title: "Capturing the Complexity of Human Strategic Decision-Making with Machine Learning"
   pdflink: "/pdf/Complexity_games.pdf"
   coauthors: "Jian-Qiao Zhu, Joshua Peterson and Thomas Griffiths"
-  book: "Working Paper"
+  bookprefix: "Working Paper"
   booksuffix: "."  
 
 
