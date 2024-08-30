@@ -3,3 +3,5 @@
 My research is in behavioral and experimental economics, including applications in cultural economics and political economy. Much of my current work focuses on cognitive information processing (e.g. complexity and  cognitive uncertainty), as well as the political consequences and cultural origins of heterogeneity in moral values. [Here](/pdf/Research_statement.pdf) is a recent research statement.
 
 I received my Ph.D. in 2016 from the University of Bonn and subsequently joined Harvard's Economics Department. At Harvard, I teach a Ph.D. course on Experimental Economics and an undergraduate class on Economics and Morality. 
+
+Students can sign up for office hours [here](https://app.acuityscheduling.com/schedule/dd0db5d9/appointment/1740724/calendar/716839).
