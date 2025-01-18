@@ -1,12 +1,12 @@
 works:
 
-- title: "Universalism: Global Evidence"
-  pdflink: "/pdf/Universalism_global.pdf"
-  coauthors: "Alexander Cappelen and Bertil Tungodden"
-  book: "American Economic Review"
+- title: "Complexity and Time"
+  pdflink: "/pdf/Complexity_time.pdf"
+  coauthors: "Thomas Graeber and Ryan Oprea"
+  book: "Journal of the European Economic Association"
   bookprefix: "Forthcoming, "
   booksuffix: "."
-
+  
 - title: "Values as Luxury Goods and Political Behavior"
   pdflink: "/pdf/Luxury_goods.pdf"
   coauthors: "Mattias Polborn and Alex Wu"
@@ -21,11 +21,16 @@ works:
   bookprefix: "Forthcoming, "
   booksuffix: "."
 
-- title: "Associative Memory, Beliefs and Market Interactions"
+- title: "Universalism: Global Evidence"
+  pdflink: "/pdf/Universalism_global.pdf"
+  coauthors: "Alexander Cappelen and Bertil Tungodden"
+  book: "American Economic Review"
+  booksuffix: ", 2025, vol. 115 (1), pp. 43-76."
+  
+  - title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
   book: "Journal of Financial Economics"
-  bookprefix: "Forthcoming, "
-  booksuffix: "."
+  booksuffix: "2024, 103853."
   coauthors: "Frederik Schwerter and Florian Zimmermann"
   
 - title: "Cognitive Uncertainty"
