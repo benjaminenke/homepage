@@ -27,7 +27,7 @@ works:
   book: "American Economic Review"
   booksuffix: ", 2025, vol. 115 (1), pp. 43-76."
   
-  - title: "Associative Memory, Beliefs and Market Interactions"
+- title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
   book: "Journal of Financial Economics"
   booksuffix: "2024, 103853."
