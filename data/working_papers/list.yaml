@@ -17,18 +17,6 @@ works:
   links:
     - url: "https://github.com/cshubatt/Complexity-Index"
       text: "Code"
-
-
-  
-
-      
-- title: "Complexity and Hyperbolic Discounting"
-  pdflink: "/pdf/Complexity_time.pdf"
-  coauthors: "Thomas Graeber and Ryan Oprea"
-  book: "Journal of the European Economic Association"
-  bookprefix: "Revise and resubmit, "
-  booksuffix: "."
-  
   
 - title: "Behavioral Attenuation"
   pdflink: "/pdf/Attenuation.pdf"
