@@ -9,12 +9,6 @@ works:
   pdflink: "/pdf/Morality_PE.pdf"
   book: "PNAS Nexus"
   booksuffix: ", 2024, vol. 3 (10)."
-
-- title: "The Cognitive Turn in Behavioral Economics"
-  bookprefix: "Working Paper"
-  booksuffix: "."
-  pdflink: "/pdf/Cognitive_turn.pdf"
-
   
 - title: "Handbook of Culture and Economic Behavior"
   coeditors: "Co-edited with Paola Giuliano, Nathan Nunn and Leonard Wantchekon"
