@@ -1,5 +1,12 @@
 works:
 
+- title: "Capturing the Complexity of Human Strategic Decision-Making with Machine Learning"
+  pdflink: "/pdf/Complexity_games.pdf"
+  coauthors: "Jian-Qiao Zhu, Joshua Peterson and Thomas Griffiths"
+  book: "Nature Human Behaviour"
+  bookprefix: "Forthcoming, "
+  booksuffix: "."  
+
 - title: "Complexity and Time"
   pdflink: "/pdf/Complexity_time.pdf"
   coauthors: "Thomas Graeber and Ryan Oprea"
