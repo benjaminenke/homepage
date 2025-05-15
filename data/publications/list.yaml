@@ -13,19 +13,19 @@ works:
   book: "Journal of the European Economic Association"
   bookprefix: "Forthcoming, "
   booksuffix: "."
-  
-- title: "Universalism and Political Representation: Evidence from the Field"
-  pdflink: "/pdf/Univ_legislators.pdf"
-  coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
-  book: "American Economic Review: Insights"
-  bookprefix: "Forthcoming, "
-  booksuffix: "."
+
 
 - title: "Universalism: Global Evidence"
   pdflink: "/pdf/Universalism_global.pdf"
   coauthors: "Alexander Cappelen and Bertil Tungodden"
   book: "American Economic Review"
   booksuffix: ", 2025, vol. 115 (1), pp. 43-76."
+
+- title: "Universalism and Political Representation: Evidence from the Field"
+  pdflink: "/pdf/Univ_legislators.pdf"
+  coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
+  book: "American Economic Review: Insights"
+  booksuffix: ", 2024, vol. 6 (2), pp. 214-229."
   
 - title: "Associative Memory, Beliefs and Market Interactions"
   pdflink: "/pdf/Memory.pdf"
