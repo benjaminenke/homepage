@@ -28,6 +28,12 @@ works:
   book: "American Economic Review"
   booksuffix: ", 2025, vol. 115 (1), pp. 43-76."
 
+- title: "Trust in Scientists and Their Role in Society Across 68 countries"
+  pdflink: "/pdf/scientists.pdf"
+  coauthors: "a many-labs team led by Viktoria Cologna and Niels Mede"
+  book: "Nature Human Behaviour"
+  booksuffix: ", 2025, vol. 9 (1), pp. 713-720."
+  
 - title: "Universalism and Political Representation: Evidence from the Field"
   pdflink: "/pdf/Univ_legislators.pdf"
   coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
