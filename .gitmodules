@@ -1,5 +1,5 @@
 [submodule "themes/academimal"]
 	path = themes/academimal
 	url = https://github.com/benjaminenke/website_template_enke.git
-	branch = temp
+	branch = acfc92b
 
