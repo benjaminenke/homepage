@@ -4,7 +4,10 @@ works:
   pdflink: "/pdf/Complexity_games.pdf"
   coauthors: "Jian-Qiao Zhu, Joshua Peterson and Thomas Griffiths"
   book: "Nature Human Behaviour"
-  booksuffix: ", 2025, vol. 9 (10), pp. 2114-2120."  
+  booksuffix: ", 2025, vol. 9 (10), pp. 2114-2120." 
+  links:
+    - url: "https://osf.io/xrvaw/overview" 
+      text: "Data on 2,400 strategic two-player games"
 
 - title: "Complexity and Time"
   pdflink: "/pdf/Complexity_time.pdf"
