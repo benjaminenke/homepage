@@ -30,11 +30,5 @@ works:
     - url: "https://github.com/cshubatt/Complexity-Index"
       text: "Code"
   
-- title: "Behavioral Attenuation"
-  pdflink: "/pdf/Attenuation.pdf"
-  coauthors: "Thomas Graeber, Ryan Oprea and Jeffrey Yang"
-  book: "Journal of Political Economy"
-  bookprefix: "Revise and resubmit, "
-  booksuffix: "."
   
 
