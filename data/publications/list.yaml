@@ -1,5 +1,12 @@
 works:
 
+- title: "Behavioral Attenuation"
+  pdflink: "/pdf/Attenuation.pdf"
+  coauthors: "Thomas Graeber, Ryan Oprea and Jeffrey Yang"
+  book: "Journal of Political Economy"
+  bookprefix: "Forthcoming, "
+  booksuffix: "."
+  
 - title: "Capturing the Complexity of Human Strategic Decision-Making with Machine Learning"
   pdflink: "/pdf/Complexity_games.pdf"
   coauthors: "Jian-Qiao Zhu, Joshua Peterson and Thomas Griffiths"
