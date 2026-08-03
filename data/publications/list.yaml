@@ -6,6 +6,13 @@ works:
   book: "Journal of Political Economy"
   bookprefix: "Forthcoming, "
   booksuffix: "."
+
+- title: "Herding, Armed Conflict, and a Culture of Honor: Global Evidence"
+  pdflink: "/pdf/Culture_of_Honor.pdf"
+  coauthors: "Yiming Cao, Armin Falk, Paola Giuliano and Nathan Nunn"
+  book: "American Economic Review"
+  bookprefix: "Conditionally accepted, "
+  booksuffix: "."
   
 - title: "Capturing the Complexity of Human Strategic Decision-Making with Machine Learning"
   pdflink: "/pdf/Complexity_games.pdf"
