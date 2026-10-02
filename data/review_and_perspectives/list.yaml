@@ -1,5 +1,13 @@
 works:
       
+- title: "Handbook of Culture and Economic Behavior"
+  coeditors: "Co-edited with Paola Giuliano, Nathan Nunn and Leonard Wantchekon"
+  book: "Elsevier Handbooks in Economics"
+  booksuffix: "."
+  links:
+    - url: "https://shop.elsevier.com/books/handbook-of-culture-and-economic-behavior/nunn/978-0-443-47184-1"
+      text: "Volume 1"
+
 - title: "Moral Boundaries"
   pdflink: "/pdf/Moral_boundaries.pdf"
   book: "Annual Review of Economics"
@@ -10,11 +18,5 @@ works:
   book: "PNAS Nexus"
   booksuffix: ", 2024, vol. 3 (10)."
   
-- title: "Handbook of Culture and Economic Behavior"
-  coeditors: "Co-edited with Paola Giuliano, Nathan Nunn and Leonard Wantchekon"
-  book: "Elsevier Handbooks in Economics"
-  booksuffix: "."
-  links:
-    - url: "https://shop.elsevier.com/books/handbook-of-culture-and-economic-behavior/nunn/978-0-443-47184-1"
-      text: "Volume 1"
+
       
