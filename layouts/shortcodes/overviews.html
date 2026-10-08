@@ -2,7 +2,7 @@
 {{ with .Site.Data.overviews }}
 {{ range .categories }}
 {{ $key := .key }}
-<details style="margin:0 0 8px;">
+<details class="overview" style="margin:0 0 8px;">
 <summary style="cursor:pointer; font-weight:bold;">{{ .title }}</summary>
 <ul style="margin:8px 0 12px;">
 {{ range $.Site.Data.working_papers }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
@@ -12,4 +12,15 @@
 </details>
 {{ end }}
 {{ end }}
+<script>
+(function () {
+  var all = document.querySelectorAll('details.overview');
+  for (var i = 0; i < all.length; i++) {
+    all[i].addEventListener('toggle', function () {
+      if (!this.open) return;
+      for (var j = 0; j < all.length; j++) { if (all[j] !== this) all[j].open = false; }
+    });
+  }
+})();
+</script>
 </div>
