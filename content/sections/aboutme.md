@@ -1,6 +1,6 @@
 [Curriculum Vitae](/pdf/Enke_cv.pdf)
 
-My research is interdisciplinary in nature, with a focus in behavioral economics, cultural economics, political economy and human-AI interaction.  Methodologically, my work relies on a combination of experiments, multinational surveys, formal theory, and machine learning.
+My research is interdisciplinary in nature, with a focus on behavioral economics, cultural economics, political economy and human-AI interaction.  Methodologically, my work relies on a combination of experiments, multinational surveys, formal theory, and machine learning.
 
 I'm a recipient of a 2021 Alfred P. Sloan Research Fellowship and of the 2017 Distinguished CESifo Affiliate Award, and gave the Zeuthen Lectures at the University of Copenhagen in 2025.
 
