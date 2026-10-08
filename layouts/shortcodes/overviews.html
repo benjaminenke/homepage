@@ -5,9 +5,13 @@
 <details class="overview" style="margin:0 0 8px;">
 <summary style="cursor:pointer; font-weight:bold;">{{ .title }}</summary>
 <ul style="margin:8px 0 12px;">
-{{ range $.Site.Data.working_papers }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
-{{ range $.Site.Data.publications }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
-{{ range $.Site.Data.review_and_perspectives }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
+{{ $s := newScratch }}{{ $s.Set "items" (slice) }}{{ $s.Set "i" 0 }}
+{{ range $src := (slice $.Site.Data.working_papers $.Site.Data.publications $.Site.Data.review_and_perspectives) }}{{ range $src }}{{ range .works }}{{ if in (default (slice) .categories) $key }}
+{{ $y := now.Year }}
+{{ with .year }}{{ $y = int . }}{{ else }}{{ range findRE "(19|20)\\d{2}" (default "" .booksuffix) 1 }}{{ $y = int . }}{{ end }}{{ end }}
+{{ $s.Add "items" (slice (dict "k" (sub (mul $y 1000) ($s.Get "i")) "w" .)) }}{{ $s.Add "i" 1 }}
+{{ end }}{{ end }}{{ end }}{{ end }}
+{{ range sort ($s.Get "items") "k" "desc" }}{{ partial "compact.html" .w }}{{ end }}
 </ul>
 </details>
 {{ end }}
