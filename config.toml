@@ -10,7 +10,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
     shortbio2 = "Faculty Research Fellow, NBER"
     logo = "BEnke.jpeg" 
     contact = """
-__Email__: [benjamin.enke@gmail.com](benjamin.enke@gmail.com)  
+__Email__: [benjamin.enke@gmail.com](mailto:benjamin.enke@gmail.com)  
 
 [[Google Scholar](https://scholar.google.de/citations?user=8-x_XN4AAAAJ&hl=en)]"""
     

@@ -1,6 +1,7 @@
 works:
 
 - title: "Behavioral Attenuation"
+  categories: [br]
   pdflink: "/pdf/Attenuation.pdf"
   coauthors: "Thomas Graeber, Ryan Oprea and Jeffrey Yang"
   book: "Journal of Political Economy"
@@ -8,6 +9,7 @@ works:
   booksuffix: "."
 
 - title: "Herding, Armed Conflict, and a Culture of Honor: Global Evidence"
+  categories: [mc]
   pdflink: "/pdf/Culture_of_Honor.pdf"
   coauthors: "Yiming Cao, Armin Falk, Paola Giuliano and Nathan Nunn"
   book: "American Economic Review"
@@ -15,6 +17,7 @@ works:
   booksuffix: "."
   
 - title: "Capturing the Complexity of Human Strategic Decision-Making with Machine Learning"
+  categories: [br, mi]
   pdflink: "/pdf/Complexity_games.pdf"
   coauthors: "Jian-Qiao Zhu, Joshua Peterson and Thomas Griffiths"
   book: "Nature Human Behaviour"
@@ -24,12 +27,14 @@ works:
       text: "Data on 2,400 strategic two-player games"
 
 - title: "Complexity and Time"
+  categories: [br]
   pdflink: "/pdf/Complexity_time.pdf"
   coauthors: "Thomas Graeber and Ryan Oprea"
   book: "Journal of the European Economic Association"
   booksuffix: ", 2025, vol. 23 (5), pp. 1838–1867."
   
 - title: "Values as Luxury Goods and Political Behavior"
+  categories: [mc]
   pdflink: "/pdf/Luxury_goods.pdf"
   coauthors: "Mattias Polborn and Alex Wu"
   book: "Journal of the European Economic Association"
@@ -37,30 +42,35 @@ works:
 
 
 - title: "Universalism: Global Evidence"
+  categories: [mc]
   pdflink: "/pdf/Universalism_global.pdf"
   coauthors: "Alexander Cappelen and Bertil Tungodden"
   book: "American Economic Review"
   booksuffix: ", 2025, vol. 115 (1), pp. 43-76."
 
 - title: "Trust in Scientists and Their Role in Society Across 68 Countries"
+  categories: [mi]
   pdflink: "/pdf/scientists.pdf"
   coauthors: "a many-labs team led by Viktoria Cologna and Niels Mede"
   book: "Nature Human Behaviour"
   booksuffix: ", 2025, vol. 9 (1), pp. 713-720."
   
 - title: "Universalism and Political Representation: Evidence from the Field"
+  categories: [mc]
   pdflink: "/pdf/Univ_legislators.pdf"
   coauthors: "Raymond Fisman, Luis Mota Freitas and Steven Sun"
   book: "American Economic Review: Insights"
   booksuffix: ", 2024, vol. 6 (2), pp. 214-229."
   
 - title: "Associative Memory, Beliefs and Market Interactions"
+  categories: [br]
   pdflink: "/pdf/Memory.pdf"
   book: "Journal of Financial Economics"
   booksuffix: ", 2024, vol. (157), 103853."
   coauthors: "Frederik Schwerter and Florian Zimmermann"
   
 - title: "Cognitive Uncertainty"
+  categories: [br]
   pdflink: "/pdf/Cognitive_uncertainty.pdf"
   book: "Quarterly Journal of Economics"
   booksuffix: ", 2023, vol. 138 (4), pp. 2021-2067 (Lead Article)."
@@ -72,6 +82,7 @@ works:
       text: "UNDP column"
       
 - title: "Moral Universalism and the Structure of Ideology"
+  categories: [mc]
   pdflink: "/pdf/Universalism_ideology.pdf"
   book: "Review of Economic Studies"
   booksuffix: ", 2023, vol. 90 (4), pp. 1934-1962."
@@ -81,29 +92,34 @@ works:
       text: "econimate video"
     
 - title: "Cognitive Biases: Mistakes or Missing Stakes?"
+  categories: [br]
   coauthors: "Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, and Jeroen van de Ven"
   book: "Review of Economics and Statistics"
   booksuffix: ", 2023, vol. 105 (4), pp. 818-832."
   pdflink: "/pdf/Biases_stakes.pdf"  
 
 - title: "Confidence, Self-Selection and Bias in the Aggregate"
+  categories: [br]
   pdflink: "/pdf/Confidence_aggregate.pdf"
   book: "American Economic Review"
   booksuffix: ", 2023, vol. 113 (7), pp. 1933-1966."
   coauthors: "Thomas Graeber and Ryan Oprea"
 
 - title: "Market Exposure and Human Morality"
+  categories: [mc, mi]
   book: "Nature Human Behaviour"
   booksuffix: ", 2023, vol. 7 (1), pp. 134-141."
   pdflink: "/pdf/Markets_morality.pdf"  
 
 - title: "Patience and Comparative Development"
+  categories: [mc]
   pdflink: "/pdf/Patience.pdf"
   book: "Review of Economic Studies"
   booksuffix: ", 2022, vol. 89(10), pp. 2806–2840."
   coauthors: "Uwe Sunde, Thomas Dohmen, Armin Falk, David Huffman, and Gerrit Meyerheim"
 
 - title: "Moral Universalism: Measurement and Economic Relevance"
+  categories: [mc, mi]
   pdflink: "/pdf/Universalism_measurement.pdf"
   coauthors: "Ricardo Rodriguez-Padilla and Florian Zimmermann"
   book: "Management Science"
@@ -113,12 +129,14 @@ works:
       text: "Qualtrics files"
 
 - title: "Confidence and Central Tendency in Perceptual Judgment"
+  categories: [br, mi]
   coauthors: "Yang Xiang, Thomas Graeber, and Samuel Gershman"
   book: "Attention, Perception & Psychophysics"
   booksuffix: ", 2021, 83, pp. 3024-3034."
   pdflink: "/pdf/Perception.pdf"  
 
 - title: "Moral Values and Voting"
+  categories: [mc]
   pdflink: "/pdf/Values_voting.pdf"
   book: "Journal of Political Economy"
   booksuffix: ", 2020, vol. 128(10), pp. 3679-3729 (Lead Article)."
@@ -127,6 +145,7 @@ works:
       text: "microeconomic insights"
 
 - title: "What You See Is All There Is"
+  categories: [br]
   pdflink: "/pdf/What_you_see.pdf"
   book: "Quarterly Journal of Economics"
   booksuffix: ", 2020, vol. 135(3), pp. 1363-1398."
@@ -135,6 +154,7 @@ works:
       text: "Version 09/2017"
 
 - title: "Ancient Origins of the Global Variation in Economic Preferences"
+  categories: [mc]
   pdflink: "/pdf/Ancient_origins.pdf"
   book: "AEA Papers & Proceedings"
   booksuffix: ", 2020, vol. 110, pp. 319-323."
@@ -142,6 +162,7 @@ works:
 
     
 - title: "Kinship, Cooperation, and the Evolution of Moral Systems"
+  categories: [mc]
   pdflink: "/pdf/Moral_systems.pdf"
   book: "Quarterly Journal of Economics"
   booksuffix: ", 2019, vol. 134(2), pp. 953-1019."
@@ -152,12 +173,14 @@ works:
       text: "CESifo Award"
 
 - title: "Correlation Neglect in Belief Formation"
+  categories: [br]
   pdflink: "/pdf/Correlation_neglect.pdf"
   book: "Review of Economic Studies"
   booksuffix: ", 2019, vol. 86(1), pp. 313-332."
   coauthors: "Florian Zimmermann"
     
 - title: "Global Evidence on Economic Preferences"
+  categories: [mc]
   pdflink: "/pdf/Global_preferences.pdf"
   book: "Quarterly Journal of Economics"
   booksuffix: ", 2018, vol. 133(4), pp. 1645-1692 (Lead Article)."
@@ -167,6 +190,7 @@ works:
       text: "GPS website"
 
 - title: "The Precision of Subjective Data and the Explanatory Power of Economic Models"
+  categories: [br]
   pdflink: "/pdf/measures_subj_beliefs.pdf"
   book: "Journal of Econometrics"
   booksuffix: ", 2017, vol. 200(2), pp. 378-389."

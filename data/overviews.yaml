@@ -1,0 +1,9 @@
+# Expandable overviews shown below the bio. A paper appears under a heading
+# if its `categories` list (in the publications / reviews data files) contains the key.
+categories:
+- key: br
+  title: "Publications on bounded rationality"
+- key: mc
+  title: "Publications on morality and culture"
+- key: mi
+  title: "Publications in management and interdisciplinary outlets"
