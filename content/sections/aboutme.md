@@ -2,9 +2,10 @@
 
 My research is interdisciplinary in nature, with a focus in behavioral economics, cultural economics, political economy and human-AI interaction.  Methodologically, my work relies on a combination of experiments, multinational surveys, formal theory, and machine learning.
 
-Below is a chronological list of publications and current working papers. The following tabs offer a list of publications by topic.
+Below is a chronological list of publications and current working papers. The following tabs offer an overview of my publications.
 
 {{< overviews >}}
+
 
 I'm a recipient of a 2021 Alfred P. Sloan Research Fellowship and of the 2017 Distinguished CESifo Affiliate Award, and gave the Zeuthen Lectures at the University of Copenhagen in 2025.
 
