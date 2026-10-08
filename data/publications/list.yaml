@@ -63,7 +63,7 @@ works:
   booksuffix: ", 2024, vol. 6 (2), pp. 214-229."
   
 - title: "Associative Memory, Beliefs and Market Interactions"
-  categories: [br]
+  categories: [br, mi]
   pdflink: "/pdf/Memory.pdf"
   book: "Journal of Financial Economics"
   booksuffix: ", 2024, vol. (157), 103853."
