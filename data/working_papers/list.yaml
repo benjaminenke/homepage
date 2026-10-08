@@ -2,25 +2,30 @@ works:
   
 - title: "Market Prices as a Moral Currency"
   categories: [mc]
+  year: 2026
   pdflink: "/pdf/Prices_moral_currency.pdf"
   
 - title: "Reference Points as Information"
   categories: [br]
+  year: 2026
   pdflink: "/pdf/RP_info.pdf"
   coauthors: "Mark Dean, Thomas Graeber and Pietro Ortoleva"
   
 - title: "Comparisons"
   categories: [br]
+  year: 2026
   pdflink: "/pdf/Comparisons.pdf"
   coauthors: "Thomas Graeber"
   
 - title: "A Note on 'When Are Decisions Improvable? An Evaluation of Diagnostic Methods'"
   categories: [br]
+  year: 2026
   pdflink: "/pdf/Note_on_When_are_Decisions_Improvable.pdf"
   coauthors: "Thomas Graeber"
   
 - title: "Quantifying Lottery Choice Complexity"
   categories: [br]
+  year: 2026
   pdflink: "/pdf/Quant_complexity.pdf"
   coauthors: "Cassidy Shubatt"
   book: "Econometrica"
