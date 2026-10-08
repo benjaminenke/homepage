@@ -1,0 +1,12 @@
+{{ with .Site.Data.overviews }}
+{{ range .categories }}
+{{ $key := .key }}
+<details style="margin:0 0 8px;">
+<summary style="cursor:pointer; font-weight:bold;">{{ .title }}</summary>
+<ul style="margin:8px 0 12px;">
+{{ range $.Site.Data.publications }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
+{{ range $.Site.Data.review_and_perspectives }}{{ range .works }}{{ if in (default (slice) .categories) $key }}{{ partial "compact.html" . }}{{ end }}{{ end }}{{ end }}
+</ul>
+</details>
+{{ end }}
+{{ end }}
