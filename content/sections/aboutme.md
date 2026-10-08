@@ -10,7 +10,7 @@ Below is a chronological list of publications and current working papers. The fo
 
 
 
-My teaching (current and past) includes Experimental Economics, Behavioral Economics, Cognitive Economics, and a course on Morality and Economics that I developed a few years ago.
+My teaching (current and past) includes Experimental Economics, Behavioral Economics, Cognitive Economics, and a course on Economics and Morality that I developed a few years ago.
 
 Students can sign up for office hours [here](https://app.acuityscheduling.com/schedule.php?owner=12646405).
 
