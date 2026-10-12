@@ -2,7 +2,7 @@
 # if its `categories` list (in the working papers / publications / reviews data files) contains the key.
 categories:
 - key: br
-  title: "Papers on bounded rationality in consumer and market behavior"
+  title: "Papers on bounded rationality in choice, belief formation and market behavior"
 - key: mc
   title: "Papers on morality and culture"
 - key: mi
