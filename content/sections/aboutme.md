@@ -2,7 +2,7 @@
 
 My research is in behavioral economics, with applications in cultural economics, political economy and human-AI interaction.  Methodologically, my work relies on a combination of experiments, multinational surveys, formal theory, and machine learning.
 
-I'm a recipient of a 2021 Alfred P. Sloan Research Fellowship and of the 2017 Distinguished CESifo Affiliate Award, and gave the Zeuthen Lectures at the University of Copenhagen in 2025.
+I'm a recipient of a 2021 Alfred P. Sloan Research Fellowship and of the 2017 Distinguished CESifo Affiliate Award. I gave the Zeuthen Lectures at the University of Copenhagen in 2025.
 
 Below is a chronological list of publications and current working papers. The following tabs offer an overview of my work.
 
